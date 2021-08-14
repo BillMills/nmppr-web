@@ -10860,6 +10860,7 @@ html {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
   height: 0;
+  z-index: 2;
 }
 .videoWrapper iframe {
   position: absolute;
