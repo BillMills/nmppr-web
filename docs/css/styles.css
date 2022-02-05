@@ -47,7 +47,7 @@
   --nmppr-fushsia: #CB00A8;
   --nmppr-rose: #FF0076;
   --nmppr-grey: #F4F4F4;
-  --nmppr-charcoal: #2E2829;
+  --nmppr-charcoal: #282829;
   --bs-font-sans-serif: "Catamaran", Arial;
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
@@ -3415,8 +3415,8 @@ textarea.form-control-lg {
 }
 
 .btn-lg, .btn-group-lg > .btn {
-  padding: 0.5rem 1rem;
-  font-size: 1.25rem;
+  padding: 0.75rem 1rem;
+  font-size: 1.0rem;
   border-radius: 0.3rem;
 }
 
@@ -7090,8 +7090,8 @@ textarea.form-control-lg {
 }
 
 .px-4 {
-  padding-right: 1.5rem !important;
-  padding-left: 1.5rem !important;
+  padding-right: 1.75rem !important;
+  padding-left: 1.75rem !important;
 }
 
 .px-5 {
